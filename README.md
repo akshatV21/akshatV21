@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @akshatV21, 18 years old.
-- 👀 I'm interested in backend development.
-- 🌱 I’m currently learning node js.
-- 💞️ I’m looking to collaborate on some backend projects!!
-- 📫 To reach me you can contact me:
-      @_akshat_21 for instagram
-      @cosmic for discord
+## Hi there, I'm Akshat Vishwakarma 👋
+
+👨🏻‍💻 **About Me:**
+- 🎉 I'm an 18-year-old backend developer, passionate about building robust and scalable systems.
+- 🔭 I'm focused on learning Node.js and honing my skills in backend development.
+- 💼 I'm open to collaborating on exciting backend projects and expanding my knowledge.
+
+🔧 **Tech Stack:**
+- 🚀 JavaScript/TypeScript | Node.js | Nest.js | MongoDB (Mongoose)
+- 🐳 Docker | Redis | Microservices | RabbitMQ | Git
+
+📫 **How to Reach Me:**
+- 📧 Email: a.vishwakarma2110@gmail.com
+- 📷 Instagram: [_akshat_21](https://www.instagram.com/_akshat_21)
+- 💬 Discord: cosmic#1234
+
+🤝 Let's connect and collaborate on innovative backend projects. Feel free to reach out to me via email or connect with me on LinkedIn. I'm always eager to learn and contribute to the development community.
+
+Happy coding! 😄
+
       
 
 <!---
