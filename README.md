@@ -6,7 +6,7 @@
 - 💼 I'm open to collaborating on exciting backend projects and expanding my knowledge.
 
 🔧 **Tech Stack:**
-- 🚀 JavaScript/TypeScript | Node.js | Nest.js | MongoDB (Mongoose) | SQL (PostgreSQL)
+- 🚀 JavaScript/TypeScript | Node.js | Nest.js | MongoDB (Mongoose) | SQL (PostgreSQL) | HTML | CSS | Vue.js
 - 🐳 Docker | Redis | Microservices | RabbitMQ | Git
 
 📫 **How to Reach Me:**
