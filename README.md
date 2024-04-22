@@ -9,6 +9,10 @@
 - 🚀 JavaScript/TypeScript | Node.js | Nest.js | MongoDB (Mongoose) | SQL (PostgreSQL) | HTML | CSS | Vue.js
 - 🐳 Docker | Redis | Microservices | RabbitMQ | Git
 
+**My GitRoll:**
+
+<a href="https://gitroll.io/profile/u6KwFR1IAcxWbJLXK2c4Nc7kHZUl2" target="_blank"><img width="600px" src="https://gitroll.io/api/badges/profiles/v1/u6KwFR1IAcxWbJLXK2c4Nc7kHZUl2" alt="GitRoll Profile Badge"/></a>
+
 📫 **How to Reach Me:**
 - 📧 Email: a.vishwakarma2110@gmail.com
 - 📷 Instagram: [_akshat_21](https://www.instagram.com/_akshat_21)
